@@ -1,0 +1,77 @@
+*{
+    color:white !important
+}
+body{
+    background-color: black;
+}
+.MuiDrawer-paper{
+    width: 30%;
+}
+
+.box-nav a{
+    color: black;
+    border-radius: 0;
+    border-bottom: 1px solid transparent;
+}
+.box-nav a:hover{
+    border-bottom: 1px solid;
+    background-color: transparent;
+}
+.label-section{
+    font-size: 2em;
+    color: #ed6c02 !important;
+}
+.myimg{
+    max-width: 100%;
+    height: 200px;
+}
+.myname, .myjob{
+    display: block;
+    margin: 20px 0;
+}
+.myname{
+    font-size: 2em;
+}
+.myjob{
+    font-size: 1.17em;
+}
+.imgjob{
+    height: 300px;
+    width: 80%;
+}
+.social > a{
+    color: white
+}
+.form-contact div{
+    width: 100%;
+    margin: 5px 0 ;
+}
+.form-contact button{
+    background-color: #333;
+    border-radius: 0;
+}
+.form-contact input, .form-contact textarea{
+    border-bottom:1px solid #333;
+}
+.info div{
+    padding:10px 0;
+}
+/* this is  mui classess  */
+
+.MuiDivider-root::after, .MuiDivider-root::before{
+    border-top-color: #ed6c02 !important;
+}
+
+.MuiChip-root{
+    border-radius: 0 !important;
+    background-color: transparent !important;
+}
+.itemServices{
+    text-align: center;
+    padding-top: 25px;
+    letter-spacing: 1px;
+    font-family: monospace;
+}
+.itemServices .css-i4bv87-MuiSvgIcon-root{
+    font-size: 2.5rem !important;    
+}
