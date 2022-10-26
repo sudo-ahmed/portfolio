@@ -5,7 +5,7 @@ const Header = ()=>{
         <Grid container mt={5} sx={{backgroundColor: 'black'}}>
             <Grid container justifyContent='center' xs={12} sm={6}>
                 <Grid item>
-                    <Box component='img' src="./mypic1.png" className="myimg" alt='myImage' />
+                    <Box component='img' src="./mypic.png" className="myimg" alt='myImage' />
                 </Grid>
             </Grid>
             <Grid container justifyContent='center' alignItems='center' xs={12} sm={6}>

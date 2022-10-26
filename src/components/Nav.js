@@ -24,7 +24,7 @@ const Nav = ()=>{
                         <Button href="#contact">Contact</Button>
                     </Box>
                 </Box>
-                <Box sx={{display: {xs: 'block', md:'none'}, backgroundColor: 'black'}}>
+                <Box sx={{display: {xs: 'block', md:'none'}}}>
                     <IconButton onClick={toggleDrawer(true)}>
                         <MenuIcon />
                     </IconButton>

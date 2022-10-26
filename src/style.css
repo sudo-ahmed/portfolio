@@ -75,3 +75,7 @@ body{
 .itemServices .css-i4bv87-MuiSvgIcon-root{
     font-size: 2.5rem !important;    
 }
+.css-1160xiw-MuiPaper-root-MuiDrawer-paper{
+    background-color: #333 !important;
+    width: 40%;
+}
